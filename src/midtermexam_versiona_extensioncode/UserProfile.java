@@ -13,6 +13,8 @@ package midtermexam_versiona_extensioncode;
  * code.
  * @author dancye, 2019
  */
+
+// Hello, this comment is for question 5 of part B, fetch+merge
 public class UserProfile 
 {
     
